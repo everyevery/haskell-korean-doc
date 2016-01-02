@@ -1,0 +1,7 @@
+https://github.com/commercialhaskell/stack
+
+commit 4407496d6e82170fb345c455ade963cc6fc46f5a
+Author: Emanuel Borsboom <manny@fpcomplete.com>
+Date:   Mon Dec 28 10:54:38 2015 -0800
+
+    Point doc links to RTFD
